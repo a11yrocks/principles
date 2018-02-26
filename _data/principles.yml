@@ -1,0 +1,11 @@
+- principle: Perceivable
+  description: People must be able to perceive it in some way, using one or more of their senses.
+
+- principle: Operable
+  description: People must be able to navigate and operate interface components.
+
+- principle: Understandable
+  description: People must understand the information and the operation of the interface.
+
+- principle: Robust
+  description: Current and future user agents, including assistive technologies, must interpret the content.
