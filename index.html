@@ -2,4 +2,9 @@
 layout: default
 ---
 
-A11Y Principles
+{% for item in site.data.principles %}
+  <div>
+    <h1>{{ item.principle }}</h1>
+    <p>{{ item.description }}</p>
+  </div>
+{% endfor %}
